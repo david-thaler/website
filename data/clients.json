@@ -816,6 +816,13 @@
 			"comments": "allows IoT devices to get certificates",
 			"acme_v2": "true",
 			"library": "C++"
+		},
+		{
+			"name": "Java-ACME-Manager",
+			"url": "https://github.com/david-thaler/Java-ACME-Manager",
+			"category": "Java",
+			"comments": "A user friendly ACME Manager open source project for generating certificates.",
+			"acme_v2": "true"
 		}
 	]
 }
